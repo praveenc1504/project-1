@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+}
+ul,li,h1{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+li{
+    color: gray;
+    cursor: pointer;
+}
+ul :hover{
+    color: aqua;
+}
+.search{
+    padding: 50px;
+    text-align: center  ;
+}
+#one{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: initial block;
+    width: 200px;
+}
+.search{
+    text-align: center  ;
+}
