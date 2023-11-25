@@ -20,6 +20,7 @@ li{
 }
 ul :hover{
     color: aqua;
+    background-color: black;
 }
 .search{
     padding: 50px;
